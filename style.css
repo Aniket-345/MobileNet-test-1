@@ -1,0 +1,68 @@
+body{
+    background-color: #464660;
+    font-family: cursive;
+    
+}
+
+.header{
+    color: rgb(41, 37, 37);
+    background-color: #ffffff;
+}
+.header img{
+width: 100px;
+
+}
+.maindiv{
+    background-color: #368B85;
+    margin-top: 35px;
+    padding: 15px;
+    border: 3px solid #B4B897;
+
+}
+.maindiv label{
+    width: 310px;
+    box-shadow:5px 5px 10px #ffffff;
+    background-color: #B4B897;
+    color: #ffffff;
+    margin-bottom: 0px;
+    padding: 10px;
+
+}
+#camera,#result{
+    width: 310px;
+    height: 300px;
+    border: 2px solid #ffffff;
+    box-shadow:5px 5px 10px #ffffff;
+}
+.maindiv button{
+    width: 310px;
+    
+    font-size: 16px;
+    border: 2px solid #ffffff;
+    box-shadow:5px 5px 10px #ffffff;
+}
+.footer_div{
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
+
+.footer_div div{
+    background-color: #368B85;
+    border-radius: 10px;
+    padding :10px;
+    box-shadow:5px 5px 10px #ffffff;
+    color: #ffffff;
+}
+
+.footer_div img{
+    width: 70px;
+}
+footer{
+    position: fixed;
+    background-color: #B4B897;
+    color: #ffffff;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
